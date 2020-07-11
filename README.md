@@ -1,8 +1,3 @@
-This repository contains all of the code for the F19 AERO405 High-Altitude 
-Global Ballooning System (HA-GBS). 
+# High-Altitude Global Ballooning System
 
-The initial code in this repo has been sourced from the TrackSoar's open-
-source code base for the TrackSoar-v1.1
-
-We have begun to change it to be able to accomodate payloads and format packets 
-accordingly. 
+The code in this repository was used in the Michigan Exploration Laboratory's High-Altitude Global Ballooning System (HAGBS), which I worked on as part of my AE 405 project during the Fall 2019 semester at the University of Michigan. It ran on a custom PCB board based on the Tracksoar APRS tracker, from which the code base is also derived.
